@@ -10,7 +10,7 @@
 - 👨‍💻 I'm a full-stack software developer and machine learning researcher
 - 🥳 I'm a competitive programmer in ICPC. 
   [🥇Champion of 2022 ICPC Asia-Manila Regional Programming Contest ]  
-- 😎 I'm now doing quantitative trading !!!
+- 😎 I'm now doing quantitative trading !!! 💹
 
 <br/>  
 
