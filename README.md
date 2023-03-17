@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**jzmster1209/jzmster1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm <u>jzmster</u>, an interesting person...</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧐 I'm currently studying at Nanyang Technological University (NTU)
+- 👨‍💻 I'm a full-stack software developer and machine learning researcher
+- 🥳 I'm a competitive programmer in ICPC. 
+  [🥇Champion of 2022 ICPC Asia-Manila Regional Programming Contest ]  
+- 😎 I'm now doing quantitative trading !!!
+
+<br/>  
+
+
